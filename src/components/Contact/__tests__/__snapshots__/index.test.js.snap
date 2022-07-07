@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Contact component renders 1`] = `
+<DocumentFragment>
+  <section>
+    <h1
+    >
+      Contact me
+    </h1>
+    <a href="https://github.com/Rubys0806"><h2 class="contact" id="contact">Github: https://github.com/Rubys0806 </h2></a>
+</DocumentFragment>
+`;

@@ -1,0 +1,22 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About component matches snapshot 1`] = `
+<DocumentFragment>
+  <section
+  >
+    <h1
+      id="about"
+    >
+      About Me:
+    </h1>
+    <img
+    <div
+      class="me"
+    >
+      <p>
+        A budding new web coding student with a B.S. in Neuroscience, trained by the UofA. 
+      </p>
+    </div>
+  </section>
+</DocumentFragment>
+`;
